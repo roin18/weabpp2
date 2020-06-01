@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roin1\\Downloads\\coreapp - 1\\coreproj\\coreproj.csproj": {}
+    "C:\\Users\\roin1\\Downloads\\weabpp2\\coreproj\\coreproj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roin1\\Downloads\\coreapp - 1\\coreproj\\coreproj.csproj": {
+    "C:\\Users\\roin1\\Downloads\\weabpp2\\coreproj\\coreproj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roin1\\Downloads\\coreapp - 1\\coreproj\\coreproj.csproj",
+        "projectUniqueName": "C:\\Users\\roin1\\Downloads\\weabpp2\\coreproj\\coreproj.csproj",
         "projectName": "coreproj",
-        "projectPath": "C:\\Users\\roin1\\Downloads\\coreapp - 1\\coreproj\\coreproj.csproj",
+        "projectPath": "C:\\Users\\roin1\\Downloads\\weabpp2\\coreproj\\coreproj.csproj",
         "packagesPath": "C:\\Users\\roin1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roin1\\Downloads\\coreapp - 1\\coreproj\\obj\\",
+        "outputPath": "C:\\Users\\roin1\\Downloads\\weabpp2\\coreproj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\roin1\\AppData\\Roaming\\NuGet\\NuGet.Config",
